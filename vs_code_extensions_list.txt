@@ -1,0 +1,8 @@
+dracula-theme.theme-dracula
+ms-azuretools.vscode-docker
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+PKief.material-icon-theme
+searKing.preview-vscode
+vscode-icons-team.vscode-icons
